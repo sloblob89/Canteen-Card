@@ -2,7 +2,7 @@
 # This is my first Java code. I hope you will like it. :)
 
 
-how to run my code Command Prompt?
+how to run my code in Command Prompt?
 
 step 1: save "canteenCode" on your hard drive as "canteenCode.java"
 step 2: run Command Prompt on your PC (in search bar type "cmd", click ENTER)
